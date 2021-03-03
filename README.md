@@ -12,7 +12,7 @@ Algunas posiciones de las matrices tiene algún significado (cantidad de persona
 
 ## Análisis de matrices
 
-![Análisis de matrices](https://imgur.com/Fj2MFVi.png)
+![Análisis de matrices](https://i.imgur.com/Fj2MFVi.png)
 
 ## Autores
 
